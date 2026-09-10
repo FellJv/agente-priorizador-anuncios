@@ -1,0 +1,49 @@
+==============================================================================
+FILA DE TRABALHO SUGERIDA — aguardando revisão humana
+==============================================================================
+Anúncios analisados: 10
+Achados priorizados: 24
+
+#1  prioridade 23.75  [pendente]
+    SKU SKU-1001  ·  ANUN-0001  ·  TITULO_CURTO
+    Problema: Título com menos de 40 caracteres: perde termos de busca.
+    Ação sugerida: Reescrever o título incluindo tipo de produto, medida e material.
+    Por que nesta posição: impacto 5, esforço 1, confiança 0.95, risco 1
+
+#2  prioridade 23.75  [pendente]
+    SKU SKU-1004  ·  ANUN-0004  ·  TITULO_CURTO
+    Problema: Título com menos de 40 caracteres: perde termos de busca.
+    Ação sugerida: Reescrever o título incluindo tipo de produto, medida e material.
+    Por que nesta posição: impacto 5, esforço 1, confiança 0.95, risco 1
+
+#3  prioridade 23.75  [pendente]
+    SKU SKU-1007  ·  ANUN-0007  ·  TITULO_CURTO
+    Problema: Título com menos de 40 caracteres: perde termos de busca.
+    Ação sugerida: Reescrever o título incluindo tipo de produto, medida e material.
+    Por que nesta posição: impacto 5, esforço 1, confiança 0.95, risco 1
+
+#4  prioridade 15.0  [pendente]
+    SKU SKU-1001  ·  ANUN-0001  ·  SEM_FICHA_TECNICA
+    Problema: Atributos obrigatórios da categoria não preenchidos.
+    Ação sugerida: Preencher a ficha técnica: marca, modelo, medida e material.
+    Por que nesta posição: impacto 5, esforço 2, confiança 0.9, risco 1
+
+#5  prioridade 15.0  [pendente]
+    SKU SKU-1003  ·  ANUN-0003  ·  SEM_FICHA_TECNICA
+    Problema: Atributos obrigatórios da categoria não preenchidos.
+    Ação sugerida: Preencher a ficha técnica: marca, modelo, medida e material.
+    Por que nesta posição: impacto 5, esforço 2, confiança 0.9, risco 1
+
+#6  prioridade 15.0  [pendente]
+    SKU SKU-1004  ·  ANUN-0004  ·  SEM_FICHA_TECNICA
+    Problema: Atributos obrigatórios da categoria não preenchidos.
+    Ação sugerida: Preencher a ficha técnica: marca, modelo, medida e material.
+    Por que nesta posição: impacto 5, esforço 2, confiança 0.9, risco 1
+
+... e outros 18 achados de prioridade menor.
+
+------------------------------------------------------------------------------
+Nenhuma alteração foi aplicada. O agente analisa e recomenda;
+a decisão e a execução dependem de aprovação humana registrada.
+
+Trilha de auditoria: saida/auditoria.jsonl
